@@ -1,0 +1,47 @@
+
+header {
+  background: red;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+header a {
+  float: right;
+}
+
+footer {
+  background: #000;
+  color: #fff;
+  padding: 1px;
+  margin-top: 5px;
+}
+
+#main-image {
+  height: 500px;
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+  height: 50px;
+  background: #000;
+}
+
+#navbar li {
+  display: inline;
+  padding: 2px;
+  margin-top: 10px;
+  color: #fff
+}
+
+#art-museum {
+  margin-right: 30px;
+}
+
+#art-museum h2 {
+  font-family: 'Roboto', sans-serif;
+}
